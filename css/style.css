@@ -1,0 +1,192 @@
+*{
+    font-size: 16px;
+    font-family: "Montserrat";
+    margin: 0;
+}
+body{
+    background-color: #F4F4F4;
+}
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+.logo {
+    margin-left: 44%;
+    width: 30px;
+    height: auto;
+    
+}
+.vuvZgrada{
+    width: 100%;
+    margin-top: 5px;
+}
+.conteiner-flex {
+    display: flex
+}
+.josjedan{
+    width: 100%;
+    background-color: #4E598C;
+}
+.header {
+gap: 30px;
+display: flex;
+flex-direction: row;
+background-color: #4E598C;
+color: #f4f4f4;
+padding: 20px;
+margin-bottom: 10px;
+width: 70%;
+margin:0 auto;
+align-items: center;
+}
+a{
+    color: #F4F4F4;
+    text-decoration: none;
+}
+
+.header-conteiner {
+width: 70%;
+margin: 0 auto;
+display: flex;
+justify-content: space-around;
+}
+.datum{
+    background-color: #4E598C;
+    color: white;
+}
+.footer {
+    background-color: #4E598C;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.linkovi{
+    background-color: #4E598C;
+    align-self: flex-start;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    width: 25%;
+}
+h1{
+    color: #FCAF58;
+    font-size: 20px;
+}
+.informacije{
+    
+    display: flex;
+}
+span{
+    border-radius: 12px;
+    padding: 10px 5px;
+}
+
+.Klinkovi{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.obavijest{
+    height: 50px;
+}
+
+.ZadObavijesti{
+    width: 70%;
+    margin-right: 15px;
+    background-color: #f7fff7;
+    margin-bottom: 5px;
+    
+}
+
+.Zadane{
+    margin: 20px 0;
+}
+
+.tekst{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #f7fff7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+p{
+    margin: 15px;
+    font-size: 13px;
+}
+h2{
+    margin: 15px;
+}
+#Naslov{
+margin: 15px;
+color: #4E598C;
+}
+.nest{
+    width: 70%;
+    margin: 0 auto;
+}
+.programi{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #f7fff7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+table{
+   width: 850px;
+}
+.tablica{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #f7fff7;
+    padding: 10px 0;
+}
+.stil{
+    width: 70%;
+    margin: 0 auto;
+    background-color: #f7fff7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+
+}
+thead{
+    background-color: #4E598C;
+    color: #f7fff7;
+    width: 80%;
+    margin: 0 auto;
+}
+
+input{
+    width: 100%;
+}
+    
+.obrazac{
+    background-color: #f7fff7;
+    font-size: large;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+    
+.submit{
+    color: white;
+    background-color: #4E598C;
+    border: 2;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 5px;
+}
+textarea{
+    width: 1075px;
+    height: 100px;
+}
